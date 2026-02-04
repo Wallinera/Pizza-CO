@@ -34,7 +34,7 @@ PIZZA-CO is a comprehensive web application designed to streamline the operation
 
 ### Main Page
 
-![Main Page](./public/mainPage.PNG)
+![Main Page](./public/mainpage.PNG)
 
 ### Menu Page
 
@@ -79,6 +79,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Emirhan Karagöz - [emirhan-karagoz1@hotmail.com](mailto:emirhan-karagoz1@hotmail.com)
 
-Project Link: [GitHub Repository](https://github.com/Wallinera/The-Wild-Oasis)
+Project Link: [GitHub Repository](https://github.com/Wallinera/Pizza-CO)
 
-Live Site URL: [wildoasis.vercell.app](https://the-wild-oasis-umber-five.vercel.app)
+Live Site URL: [PIZZA-CO](https://pizza-co-five.vercel.app)
